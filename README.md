@@ -1,6 +1,5 @@
 ## Hello there !!!
 ### I'm a Computer Engineering student learning both backend & frontend development
----
 ### Currently working with:
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
