@@ -1,4 +1,4 @@
-# Hello there
+# Hello there 👋
 I'm a Computer Engineering student learning both backend & frontend development.
 Currently working with:  
 
